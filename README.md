@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**msamgan/msamgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Hi, I am Samgan, I excel at solving complex problems involving logic and step by step breakdown of the problem. Besides, to develop complex algorithms, I specialise in problem framing, systems design, and product development strategy. Sometimes I also enjoy public speaking.  
+
+I am also the creator of penit.ink, a site which provides young writers with a free hand place to show their creation to the world. Irrespective of the niche, if you write this place is defiantly for you.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working for [shopiniworld.com](https://shopiniworld.com)
+- 📫 How to reach me at mohdsamgankhan@gmail.com
+<!-- 
+- 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 
 -->
