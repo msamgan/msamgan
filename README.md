@@ -8,7 +8,7 @@ I am also the creator of penit.ink, a site which provides young writers with a f
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working for [shopiniworld.com](https://shopiniworld.com)
-- 📫 How to reach me at mohdsamgankhan@gmail.com
+- 📫 You can reach me at mohdsamgankhan@gmail.com
 <!-- 
 - 
 - 🌱 I’m currently learning ...
