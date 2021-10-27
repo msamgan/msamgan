@@ -5,8 +5,6 @@ Hi, I am Samgan, I excel at solving complex problems involving logic and step by
 
 I am also the creator of penit.ink, a site which provides young writers with a free hand place to show their creation to the world. Irrespective of the niche, if you write this place is defiantly for you.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working for [shopiniworld.com](https://shopiniworld.com)
 - 📫 You can reach me at mohdsamgankhan@gmail.com
 <!-- 
