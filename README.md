@@ -22,7 +22,6 @@ I am also the creator of penit.ink, a site which provides young writers with a f
 
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
 
 ### Support
