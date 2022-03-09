@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Samgan Khan</h1>
 <h3 align="center">A passionate Developer from India</h3>
 
-Hi, I am Samgan, I excel at solving complex problems involving logic and step by step breakdown of the problem. Besides, to develop complex algorithms, I specialize in problem framing, systems design, and product development strategy. Sometimes I also enjoy public speaking.  
-
-I am also the creator of penit.ink, a site which provides young writers with a free hand place to show their creation to the world. Irrespective of the niche, if you write this place is defiantly for you.
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msamgan&label=Profile%20views&color=0e75b6&style=flat" alt="msamgan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msamgan" alt="msamgan" /></a> </p>
