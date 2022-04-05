@@ -33,5 +33,3 @@ I am also the creator of penit.ink, a site which provides young writers with a f
 ![msamgan](https://github-readme-stats.vercel.app/api?username=msamgan&show_icons=true&locale=en)
 
 ![msamgan](https://github-readme-streak-stats.herokuapp.com/?user=msamgan&)
-
-<a href="https://app.daily.dev/msamgan"><img src="https://api.daily.dev/devcards/fa7a9ccc3a14409f8aa805fc27eea559.png?r=a9u" width="400" alt="Mohd Samgan Khan's Dev Card"/></a>
