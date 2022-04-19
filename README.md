@@ -20,10 +20,6 @@ I am also the creator of penit.ink, a site which provides young writers with a f
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mohd-samgan-khan](https://www.linkedin.com/in/mohd-samgan-khan)
 
-## Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ### Support
 
 [![msamgan](https://cdn.ko-fi.com/cdn/kofi3.png?v=3)](https://ko-fi.com/msamgan)
