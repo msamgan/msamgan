@@ -1,5 +1,8 @@
 # Hi 👋, I'm Mohammed Samgan Khan
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=msamgan.msamgan)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
 ## A passionate Developer from India
 
 Talking about me, I excel at solving complex problems involving logic and step by step breakdown of the problem. Besides, to develop complex algorithms, I specialize in problem framing, systems design, and product development strategy. Sometimes I also enjoy public speaking.  
