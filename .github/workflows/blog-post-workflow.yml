@@ -14,6 +14,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Pull in dev.to posts
-        uses: msamgan/blog-post-workflow@v1
+        uses: msamgan/msamgan
         with:
           feed_list: "https://codebysamgan.com/feed"
