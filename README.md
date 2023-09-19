@@ -33,7 +33,3 @@ Talking about me, I excel at solving complex problems involving logic and step b
 </a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=msamgan&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=770)](https://git.io/streak-stats)
-
-## Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
