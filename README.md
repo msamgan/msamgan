@@ -23,10 +23,13 @@ Talking about me, I excel at solving complex problems involving logic and step b
 
 ![Metrics](https://metrics.lecoq.io/msamgan?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2New_York)
 
-## Stats
+## Github Stats
 
-![msamgan](https://github-readme-stats.vercel.app/api/top-langs?username=msamgan&show_icons=true&locale=en&layout=compact)  
+<a href="https://github.com/msamgan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msamgan&langs_count=3" />
+</a>
+<a href="https://github.com/msamgan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=msamgan&show_icons=true&line_height=27&count_private=true&icon_color=2bbc8a" alt="msamgan's GitHub Stats" />
+</a>
 
-![msamgan](https://github-readme-stats.vercel.app/api?username=msamgan&show_icons=true&locale=en)
-
-![msamgan](https://github-readme-streak-stats.herokuapp.com/?user=msamgan&)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=msamgan&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=770)](https://git.io/streak-stats)
