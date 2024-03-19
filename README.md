@@ -15,7 +15,7 @@ Talking about me, I excel at solving complex problems involving logic and step b
 
 - 💬 Ask me about **php, Laravel, Node**
 
-- 📫 How to reach me **mohdsamgankhan@gmail.com**
+- 📫 How to reach me **mail@msamgan.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mohd-samgan-khan](https://www.linkedin.com/in/mohd-samgan-khan)
 
