@@ -5,7 +5,7 @@
 
 ## A passionate Developer from PA, USA
 
-Talking about me, I excel at solving complex problems involving logic and step by step breakdown of the problem. Besides, to develop complex algorithms, I specialize in problem framing, systems design, and product development strategy. Sometimes I also enjoy public speaking.  
+Seasoned Software Engineer with 10+ years of experience in supply chain management, logistics, and transportation. Expertise in developing and deploying software solutions, with a proven track with complex applications
 
 - 🔭 I’m currently working with **Shopiniworld**
 
