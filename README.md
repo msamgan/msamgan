@@ -7,11 +7,11 @@
 
 Seasoned Software Engineer with 10+ years of experience in supply chain management, logistics, and transportation. Expertise in developing and deploying software solutions, with a proven track with complex applications
 
-- 🔭 I’m currently working with **Shopiniworld**
+- 🔭 I’m currently working with **Fusteka Group**
 
 - 🌱 I’m currently learning **Rust**
 
-- 📝 I regularly write articles on [codebysamgan.com](codebysamgan.com)
+- 📝 I regularly write articles on [codebysamgan.com](https://codebysamgan.com)
 
 - 💬 Ask me about **php, Laravel, Node**
 
