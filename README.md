@@ -17,7 +17,7 @@ Seasoned Software Engineer with 10+ years of experience in supply chain manageme
 
 - 📫 How to reach me **mail@msamgan.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mohd-samgan-khan](https://www.linkedin.com/in/mohd-samgan-khan)
+- 📄 Know more about me at [msamgan.dev](https://msamgan.dev/)
 
 ## Github Matrix
 
