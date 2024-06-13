@@ -11,13 +11,13 @@ Seasoned Software Engineer with 10+ years of experience in supply chain manageme
 
 - 🌱 I’m currently learning **Rust**
 
-- 📝 I regularly write articles on [codebysamgan.com](https://codebysamgan.com)
+- 📝 I regularly write articles on [msamgan.com](https://msamgan.com)
 
 - 💬 Ask me about **php, Laravel, Node**
 
 - 📫 How to reach me **mail@msamgan.com**
 
-- 📄 Know more about me at [msamgan.dev](https://msamgan.dev/)
+- 📄 Know more about me at [msamgan.com](https://msamgan.com/)
 
 ## Github Matrix
 
