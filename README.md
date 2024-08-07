@@ -33,3 +33,5 @@ Seasoned Software Engineer with 10+ years of experience in supply chain manageme
 </a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=msamgan&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=770)](https://git.io/streak-stats)
+
+<a href="https://app.daily.dev/msamgan"><img src="https://api.daily.dev/devcards/v2/306wyWbU3.png?type=wide&r=aas" width="800" alt="Mohd Samgan Khan's Dev Card"/></a>
