@@ -19,9 +19,6 @@ Seasoned Software Engineer with 10+ years of experience in supply chain manageme
 
 - 📄 Know more about me at [msamgan.com](https://msamgan.com/)
 
-## Github Matrix
-
-![Metrics](https://metrics.lecoq.io/msamgan?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2New_York)
 
 ## Github Stats
 
