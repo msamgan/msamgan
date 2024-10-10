@@ -3,7 +3,15 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=msamgan.msamgan)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
 
-## A passionate Developer from PA, USA
+<pre>
+______                                       ______   _______         _____ _____                         
+___  / ______ _______________ ____   _______ ___  /   ___    |__________  /____(_)______________ ________ 
+__  /  _  __ `/__  ___/_  __ `/__ | / /_  _ \__  /    __  /| |__  ___/_  __/__  / __  ___/_  __ `/__  __ \
+_  /___/ /_/ / _  /    / /_/ / __ |/ / /  __/_  /     _  ___ |_  /    / /_  _  /  _(__  ) / /_/ / _  / / /
+/_____/\__,_/  /_/     \__,_/  _____/  \___/ /_/      /_/  |_|/_/     \__/  /_/   /____/  \__,_/  /_/ /_/ 
+</pre>
+
+## A Fellow Developer from PA, USA
 
 Seasoned Software Engineer with 10+ years of experience in supply chain management, logistics, and transportation. Expertise in developing and deploying software solutions, with a proven track with complex applications
 
