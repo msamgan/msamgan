@@ -15,7 +15,7 @@ _  /___/ /_/ / _  /    / /_/ / __ |/ / /  __/_  /     _  ___ |_  /    / /_  _  /
 
 Seasoned Software Engineer with 10+ years of experience in supply chain management, logistics, and transportation. Expertise in developing and deploying software solutions, with a proven track with complex applications
 
-- 🔭 I’m currently working with **Fusteka Group**
+- 🔭 I’m currently working with **Nexus Log X**
 
 - 🌱 I’m currently learning **Rust**
 
